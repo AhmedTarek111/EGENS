@@ -119,3 +119,55 @@
     color: #7153D9;
     font-size: 26px;
 }
+
+
+.service-subtitle {
+    font-size: 18px;
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    line-height: 1.9;
+    color: #7153d9;
+    letter-spacing: 8px;
+}
+
+.service-title {
+    font-size: 60px;
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    line-height: 1.16;
+    color: #1c1c1c;
+}
+
+.service-text {
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #8d8e99;
+
+}
+
+.card2-border {
+    background-color: #FFFFFF;
+}
+
+.card2-text {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #54545f;
+}
+
+.card2-btn {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+}
+.fa-angle-right {
+    color: #7153d9;
+}
+
+.card2{
+    box-shadow: 0px 12px 42px rgba(69, 38, 177, 0.1), 11px 6px 25px rgba(69, 38, 177, 0.1);
+}
