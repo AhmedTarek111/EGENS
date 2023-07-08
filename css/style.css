@@ -171,3 +171,43 @@
 .card2{
     box-shadow: 0px 12px 42px rgba(69, 38, 177, 0.1), 11px 6px 25px rgba(69, 38, 177, 0.1);
 }
+.banner2 {
+    background-color: #4526b1;
+}
+
+.banner2-subtitle {
+    color: white;
+    font-size: 18px;
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    line-height: 1.9;
+    letter-spacing: 8px
+    
+}
+
+.banner2-title {
+    color: white;
+    font-family: "Jost", sans-serif;
+    font-weight: 500;
+    line-height: 1.16;
+    font-size: 48px;
+}   
+
+.banner2-paragraph {
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5
+}
+
+.Banner2-btn {
+   background-color: #E2C4FF;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Jost", sans-seri;
+    border-radius: 40px;
+    padding: 15px 48px;
+    text-decoration: none;
+}
+
