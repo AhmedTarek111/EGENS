@@ -163,11 +163,17 @@
     font-size: 18px;
     font-weight: 500;
     font-family: "Jost", sans-serif;
+    transition: 0.5s;
 }
+
 .fa-angle-right {
     color: #7153d9;
 }
 
+.card2-btn:hover {
+    color: #7153D9;
+    margin-left: 10px;
+}
 .card2{
     box-shadow: 0px 12px 42px rgba(69, 38, 177, 0.1), 11px 6px 25px rgba(69, 38, 177, 0.1);
 }
