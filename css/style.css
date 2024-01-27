@@ -174,6 +174,10 @@
     color: #7153D9;
     margin-left: 10px;
 }
+
+.card-title2:hover {
+    color: #0A58CA;
+}
 .card2{
     box-shadow: 0px 12px 42px rgba(69, 38, 177, 0.1), 11px 6px 25px rgba(69, 38, 177, 0.1);
 }
@@ -215,6 +219,10 @@
     border-radius: 40px;
     padding: 15px 48px;
     text-decoration: none;
+}
+.Banner2-btn:hover { 
+   background-color: #7153d9;
+   color: white;
 }
 
 .getboost-text {
