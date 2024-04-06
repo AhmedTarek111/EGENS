@@ -244,6 +244,7 @@
 }
 .getboost-img {
     margin-top: -120px;
+   
 }
 
 .ourbolg-title {
@@ -265,3 +266,70 @@
     color: #54545f;
 }
 
+@media (max-width:576px) {
+
+    .Banner-subtitle {
+        font-size: 20px;
+    }
+
+    .Banner-title {
+        font-size:36px ;
+    }
+    .Banner-text {
+        font-size: 20px;
+    }
+    .Banner-btn {
+        margin: 20px ;
+    }
+    
+    .subtitle1 {
+        font-size: 16px;
+    }
+    .title1 {
+        font-size: 30px;
+    }
+    .paragraph1 {
+        font-size: 17px ;
+    }
+    .service-subtitle {
+        font-size: 16px;
+    }
+    .service-title {
+        font-size: 28px;
+    }
+    .service-text{
+        font-size: 16px;
+    }
+   
+    .banner2-subtitle {
+        font-size: 10px;
+    }
+
+    .banner2-title{
+        font-size: 15px;
+    }
+    .banner2-paragraph {
+        font-size: 15px;
+    }
+
+    .getboost-img {
+        max-width:210px !important ;
+        margin-top: -90px;
+
+    }
+    .getboost-icon {
+        height: 70px;
+        width: 70px;
+        padding: 20px;
+
+    }
+    .Banner-subtitle ,.Banner-title,.Banner-text,.getboost-text,.ourbolg-p2 {
+        font-size: 16px;
+    }
+    .Banner-title {
+        font-size: 30px;
+    }
+    .ourbolg-p1 {
+        font-size: 18px;
+    }
+}
